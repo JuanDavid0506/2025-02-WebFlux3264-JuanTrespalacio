@@ -54,7 +54,7 @@ public class App {
                 }
                 case 4 -> dao.consultarTodos();
                 case 5 -> {
-                    System.out.print("Correo a buscar: ");
+                    System.out.print(" Correo a buscar: ");
                     String correo = sc.nextLine();
                     dao.consultarPorCorreo(correo);
                 }
