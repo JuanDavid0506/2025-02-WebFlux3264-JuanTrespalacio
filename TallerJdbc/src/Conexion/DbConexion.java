@@ -5,9 +5,9 @@ import java.sql.*;
 public class DbConexion {
 
 
-    private static final String url = "jdbc:mysql://localhost:3306/taller_jdbc";
+    private static final String url = "jdbc:mysql://localhost:3306/db_estudiantes";
     private static final String USER = "root";
-    private static final String pass = "Jesusb.1050";
+    private static final String pass = "juan123";
 
 
 
